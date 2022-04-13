@@ -1,2 +1,2 @@
-# Myitkiwi.github.io
+# myitkiwi.github.io
 web design
