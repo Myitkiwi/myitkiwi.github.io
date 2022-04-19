@@ -1,0 +1,74 @@
+h1 {
+    color: rgb(11, 214, 95);
+    text-align: center;
+}
+p, li {
+    color: rgb(2, 236, 2);
+}
+li {
+    list-style-type: kannada;;
+  }
+  .special {
+    color: orange;
+    font-weight: bold;
+  }
+  li em {
+    color: rebeccapurple;
+  }
+  h1 + p {
+    font-size: 200%;
+  }
+  a:link {
+    color: pink;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  
+i {
+    color: blue;
+}
+
+img {
+    border-width:  120%;
+    border-color: blueviolet;
+    border-style: solid;
+    
+}
+div {text-align: center;
+}
+
+.outer {
+    border: 5px solid black;
+}
+
+.box {
+    padding: 10px;
+    width: calc (90% - 30px);
+    background-color: rebeccapurple;
+    color: white;
+}
+span{
+    height:50px;
+    width:75px;
+    background: #00ff00;
+    display: inline-block;
+    /*display:try block and inline block*/ 
+}
+div{
+    height:100px;
+    width: 33%;
+    background: #00ffff;
+    display: inline-block;
+    /*display:; */
+    /*Float:;*/   
+}
+p{
+    height:100px;
+    width:200px;
+    background: #ff00ff;  
+}
